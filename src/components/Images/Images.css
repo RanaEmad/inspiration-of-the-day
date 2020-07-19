@@ -1,0 +1,12 @@
+.images {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 2rem;
+  padding: 0 5% 5% 5%;
+  align-items: stretch;
+}
+
+.images .image {
+  width: 100%;
+  border: teal 10px solid;
+}

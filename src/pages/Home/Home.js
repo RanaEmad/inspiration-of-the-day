@@ -1,4 +1,6 @@
 import React from "react";
+import "./Home.css";
+import Images from "../../components/Images/Images";
 class Home extends React.Component {
   constructor() {
     super();
@@ -7,7 +9,7 @@ class Home extends React.Component {
     };
   }
   componentDidMount() {
-    fetch("https://api.unsplash.com/photos/random?count=9", {
+    fetch("https://api.unsplash.com/photos/random?count=12", {
       headers: {
         Authorization: `Client-ID ${process.env.REACT_APP_API_KEY}`,
       },
@@ -22,7 +24,12 @@ class Home extends React.Component {
       .catch((error) => console.error(error));
   }
   render() {
-    return <div className="home"></div>;
+    return (
+      <div className="home">
+        <h1 className="header">Inspiration Of The Day</h1>
+        <Images images={this.state.images} />
+      </div>
+    );
   }
 }
 
