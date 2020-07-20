@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ff95fc895ff145f86b632241101491e",
+    "revision": "b843c9eb36a11ae5e78c5ddc1133ffc2",
     "url": "/inspiration-of-the-day/index.html"
   },
   {
-    "revision": "69b04159da4fd8058bc3",
+    "revision": "e9a6b66308ec8e8b5234",
     "url": "/inspiration-of-the-day/static/css/main.7fba6a79.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/inspiration-of-the-day/static/js/2.d14f3907.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "69b04159da4fd8058bc3",
-    "url": "/inspiration-of-the-day/static/js/main.1695041d.chunk.js"
+    "revision": "e9a6b66308ec8e8b5234",
+    "url": "/inspiration-of-the-day/static/js/main.bc76120b.chunk.js"
   },
   {
     "revision": "227ac3503cf70f840493",
