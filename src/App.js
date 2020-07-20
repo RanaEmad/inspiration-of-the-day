@@ -9,7 +9,7 @@ import Photographer from "./pages/Photographer/Photographer";
 class App extends React.Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div className="app">
           <Switch>
             <Route path="/single-image/:id" component={SingleImage} />
