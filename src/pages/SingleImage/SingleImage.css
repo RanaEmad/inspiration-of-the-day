@@ -1,0 +1,39 @@
+.single-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.single-image figure {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.single-image figcaption,
+.single-image figcaption .photographer {
+  text-align: center;
+  color: #c2bcc7;
+  font-family: "Pacifico", cursive;
+}
+.single-image figcaption {
+  font-size: 2rem;
+  text-shadow: -11px -1px 5px #210024;
+}
+
+.single-image figcaption .photographer {
+  text-shadow: none;
+  font-size: 3rem;
+}
+.single-image figcaption .photographer a {
+  color: #c2bcc7;
+}
+
+.single-image figure img {
+  width: 70%;
+  height: 80%;
+}
