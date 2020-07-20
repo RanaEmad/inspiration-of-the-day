@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/inspiration-of-the-day/static/css/main.7fba6a79.chunk.css",
+    "main.js": "/inspiration-of-the-day/static/js/main.1695041d.chunk.js",
+    "main.js.map": "/inspiration-of-the-day/static/js/main.1695041d.chunk.js.map",
+    "runtime-main.js": "/inspiration-of-the-day/static/js/runtime-main.d137b9aa.js",
+    "runtime-main.js.map": "/inspiration-of-the-day/static/js/runtime-main.d137b9aa.js.map",
+    "static/js/2.d14f3907.chunk.js": "/inspiration-of-the-day/static/js/2.d14f3907.chunk.js",
+    "static/js/2.d14f3907.chunk.js.map": "/inspiration-of-the-day/static/js/2.d14f3907.chunk.js.map",
+    "index.html": "/inspiration-of-the-day/index.html",
+    "precache-manifest.cca23e811b44d934c6ec71a10e87f5fd.js": "/inspiration-of-the-day/precache-manifest.cca23e811b44d934c6ec71a10e87f5fd.js",
+    "service-worker.js": "/inspiration-of-the-day/service-worker.js",
+    "static/css/main.7fba6a79.chunk.css.map": "/inspiration-of-the-day/static/css/main.7fba6a79.chunk.css.map",
+    "static/js/2.d14f3907.chunk.js.LICENSE.txt": "/inspiration-of-the-day/static/js/2.d14f3907.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d137b9aa.js",
+    "static/js/2.d14f3907.chunk.js",
+    "static/css/main.7fba6a79.chunk.css",
+    "static/js/main.1695041d.chunk.js"
+  ]
+}
