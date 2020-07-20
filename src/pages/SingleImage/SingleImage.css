@@ -15,7 +15,7 @@
 }
 
 .single-image figcaption,
-.single-image figcaption .photographer {
+.single-image figcaption .image-photographer {
   text-align: center;
   color: #c2bcc7;
   font-family: "Pacifico", cursive;
@@ -25,11 +25,11 @@
   text-shadow: -11px -1px 5px #210024;
 }
 
-.single-image figcaption .photographer {
+.single-image figcaption .image-photographer {
   text-shadow: none;
   font-size: 3rem;
 }
-.single-image figcaption .photographer a {
+.single-image figcaption .image-photographer a {
   color: #c2bcc7;
 }
 

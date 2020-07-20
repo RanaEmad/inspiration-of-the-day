@@ -1,0 +1,21 @@
+.photographer {
+  display: grid;
+  grid-template-columns: 2fr 8fr;
+}
+
+.photographer .info {
+  margin-left: 2rem;
+}
+
+.info .info-block .header {
+  font-weight: 900;
+  color: teal;
+}
+
+.info .info-block a {
+  color: #c2bcc7;
+}
+
+.photographer .photographer-images .header {
+  text-align: center;
+}

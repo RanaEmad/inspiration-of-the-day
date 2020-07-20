@@ -16,4 +16,6 @@ body {
   background-attachment: fixed;
   background-size: cover;
   /* background by SVGBackgrounds.com */
+  font-family: "Pacifico", cursive;
+  color: #c2bcc7;
 }

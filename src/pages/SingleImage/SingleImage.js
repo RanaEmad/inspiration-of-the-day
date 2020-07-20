@@ -34,8 +34,8 @@ class SingleImage extends React.Component {
             />
             <figcaption>
               Photographed By{" "}
-              <span className="photographer">
-                <Link to={"/photographer/" + this.state.image.user.id}>
+              <span className="image-photographer">
+                <Link to={"/photographer/" + this.state.image.user.username}>
                   {this.state.image.user.name}
                 </Link>
               </span>
